@@ -5,23 +5,22 @@
     box-sizing: border-box;
 }
 
-
-.protest-revolution-regular {
-    font-family: "Protest Revolution", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
 /* Selector de tipo: Etiqueta */
 body {
     background-color: plum;
-    font-family:"Protest Revolution", sans-serif;
+    font-family:"Montserrat", serif;
     font-weight: 300;
     font-style: normal;
     
 }
 
 
+.montserrat-uniquifier {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
 
 main{
     /*Ajustar las tarjetas a varias lineas*/
